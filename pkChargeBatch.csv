@@ -1,0 +1,1404 @@
+Date,Dept,Batch Number,Transactions,Charges
+1/1/2020,Peds Allergy,,,
+1/1/2020,Peds BMT,,,
+1/1/2020,Peds Cardiology,,,
+1/1/2020,Peds CC,,,
+1/1/2020,Peds Endo DM,,,
+1/1/2020,Peds Endocrinology,,,
+1/1/2020,Peds Gastroenterology,,,
+1/1/2020,Peds HemOnc,,,
+1/1/2020,Peds Hospitalists,,,
+1/1/2020,Peds ID,,,
+1/1/2020,Peds Neonatology,107721,109,110
+1/1/2020,Peds Nephrology,,,
+1/1/2020,Peds Neurology,,,
+1/1/2020,Peds Psychiatry,,,
+1/1/2020,Peds Pulmonology,,,
+1/1/2020,Peds Rheumatology,,,
+1/1/2020,Peds Surgery,,,
+1/1/2020,Peds Urology,,,
+1/1/2020,ULP Cardiothoracic Adult,,,
+1/1/2020,ULP Cardiothoracic Peds,,,
+1/1/2020,ULP Colorectal Surgery,,,
+1/1/2020,ULP Fam Med Hospitalists,,,
+1/1/2020,ULP FMED Geriatrics Hospitialists,,,
+1/1/2020,ULP FMED Geriatrics Nursing Home,,,
+1/1/2020,ULP FMED Instit for Optimal Aging,,,
+1/1/2020,ULP General Surgery,,,
+1/1/2020,ULP Med BMT,,,
+1/1/2020,ULP Med Cardiology,,,
+1/1/2020,ULP Med Endocrinology,,,
+1/1/2020,ULP Med Gastroenterology,,,
+1/1/2020,ULP Med Hospitalists,,,
+1/1/2020,ULP Med Infect Disease,,,
+1/1/2020,ULP Med Nephrology,,,
+1/1/2020,ULP Med Oncology,,,
+1/1/2020,ULP Med Pulmomology,107725,9,19
+1/1/2020,ULP Med Rhuematology,,,
+1/1/2020,ULP Neurology,107727,85,85
+1/1/2020,ULP Neurosurgery,107723,3,3
+1/1/2020,ULP Obgyn Gyn Oncology,,,
+1/1/2020,ULP Obgyn Gen Obstetrics,,,
+1/1/2020,ULP Obgyn Gynecology,,,
+1/1/2020,ULP Obgyn Maternal Fetal,,,
+1/1/2020,ULP Obgyn Midwife,,,
+1/1/2020,ULP Obgyn Min Invasive,,,
+1/1/2020,ULP ObGyn Reprod Endo,,,
+1/1/2020,ULP Obgyn Ryan Residency,,,
+1/1/2020,ULP Obgyn Urogynecology,,,
+1/1/2020,ULP Opht Eye Specialists,,,
+1/1/2020,ULP Opht Services,,,
+1/1/2020,ULP Orthopedics,,,
+1/1/2020,ULP Otolaryngology,,,
+1/1/2020,ULP Peds Primary Care,,,
+1/1/2020,ULP Physical Med & Rehab,,,
+1/1/2020,ULP Plastic Surgery,,,
+1/1/2020,ULP Radiology,,,
+1/1/2020,ULP Surgical Oncology,,,
+1/1/2020,ULP Thoracic,,,
+1/1/2020,ULP Transplant Surgery,,,
+1/1/2020,ULP Trauma Surgery,,,
+1/1/2020,ULP Urology,,,
+1/1/2020,ULP Vascular Surgery,,,
+1/2/2020,Peds Allergy,,,
+1/2/2020,Peds BMT,107761,5,5
+1/2/2020,Peds Cardiology,,,
+1/2/2020,Peds CC,107755,76,78
+1/2/2020,Peds Endo DM,,,
+1/2/2020,Peds Endocrinology,,,
+1/2/2020,Peds Gastroenterology,,,
+1/2/2020,Peds HemOnc,107743,41,42
+1/2/2020,Peds Hospitalists,107795,311,313
+1/2/2020,Peds ID,107797,12,12
+1/2/2020,Peds Neonatology,107767,167,179
+1/2/2020,Peds Nephrology,,,
+1/2/2020,Peds Neurology,107799,43,43
+1/2/2020,Peds Psychiatry,107785,37,37
+1/2/2020,Peds Pulmonology,,,
+1/2/2020,Peds Rheumatology,,,
+1/2/2020,Peds Surgery,,,
+1/2/2020,Peds Urology,,,
+1/2/2020,ULP Cardiothoracic Adult,107751,23,25
+1/2/2020,ULP Cardiothoracic Peds,,,
+1/2/2020,ULP Colorectal Surgery,107771,57,63
+1/2/2020,ULP Fam Med Hospitalists,107745,41,41
+1/2/2020,ULP FMED Geriatrics Hospitialists,107787,4,4
+1/2/2020,ULP FMED Geriatrics Nursing Home,107765,12,16
+1/2/2020,ULP FMED Instit for Optimal Aging,,,
+1/2/2020,ULP General Surgery,,,
+1/2/2020,ULP Med BMT,,,
+1/2/2020,ULP Med Cardiology,107749,66,194
+1/2/2020,ULP Med Endocrinology,107757,24,24
+1/2/2020,ULP Med Gastroenterology,107747,72,80
+1/2/2020,ULP Med Hospitalists,,,
+1/2/2020,ULP Med Infect Disease,107779,11,11
+1/2/2020,ULP Med Nephrology,107777,76,76
+1/2/2020,ULP Med Oncology,,,
+1/2/2020,ULP Med Pulmomology,107789,109,111
+1/2/2020,ULP Med Rhuematology,,,
+1/2/2020,ULP Neurology,,,
+1/2/2020,ULP Neurosurgery,,,
+1/2/2020,ULP Obgyn Gyn Oncology,107763,12,12
+1/2/2020,ULP Obgyn Gen Obstetrics,107759,48,60
+1/2/2020,ULP Obgyn Gynecology,,,
+1/2/2020,ULP Obgyn Maternal Fetal,107783,37,59
+1/2/2020,ULP Obgyn Midwife,,,
+1/2/2020,ULP Obgyn Min Invasive,,,
+1/2/2020,ULP ObGyn Reprod Endo,,,
+1/2/2020,ULP Obgyn Ryan Residency,,,
+1/2/2020,ULP Obgyn Urogynecology,,,
+1/2/2020,ULP Opht Eye Specialists,,,
+1/2/2020,ULP Opht Services,,,
+1/2/2020,ULP Orthopedics,107781,14,25
+1/2/2020,ULP Otolaryngology,107791,5,5
+1/2/2020,ULP Peds Primary Care,107773,20,20
+1/2/2020,ULP Physical Med & Rehab,107793,106,106
+1/2/2020,ULP Plastic Surgery,107769,14,35
+1/2/2020,ULP Radiology,107741,144,176
+1/2/2020,ULP Surgical Oncology,107753,117,149
+1/2/2020,ULP Thoracic,107775,25,25
+1/2/2020,ULP Transplant Surgery,,,
+1/2/2020,ULP Trauma Surgery,,,
+1/2/2020,ULP Urology,,,
+1/2/2020,ULP Vascular Surgery,,,
+1/3/2020,Peds Allergy,,,
+1/3/2020,Peds BMT,107811,2,2
+1/3/2020,Peds Cardiology,107851,48,59
+1/3/2020,Peds CC,107857,97,100
+1/3/2020,Peds Endo DM,,,
+1/3/2020,Peds Endocrinology,,,
+1/3/2020,Peds Gastroenterology,,,
+1/3/2020,Peds HemOnc,107837,11,12
+1/3/2020,Peds Hospitalists,107819,241,241
+1/3/2020,Peds ID,,,
+1/3/2020,Peds Neonatology,107847,107,113
+1/3/2020,Peds Nephrology,,,
+1/3/2020,Peds Neurology,107831,11,11
+1/3/2020,Peds Psychiatry,,,
+1/3/2020,Peds Pulmonology,,,
+1/3/2020,Peds Rheumatology,,,
+1/3/2020,Peds Surgery,,,
+1/3/2020,Peds Urology,,,
+1/3/2020,ULP Cardiothoracic Adult,107821,7,7
+1/3/2020,ULP Cardiothoracic Peds,107823,3,5
+1/3/2020,ULP Colorectal Surgery,,,
+1/3/2020,ULP Fam Med Hospitalists,107855,19,19
+1/3/2020,ULP FMED Geriatrics Hospitialists,107841,2,2
+1/3/2020,ULP FMED Geriatrics Nursing Home,107817,8,8
+1/3/2020,ULP FMED Instit for Optimal Aging,,,
+1/3/2020,ULP General Surgery,107849,22,30
+1/3/2020,ULP Med BMT,,,
+1/3/2020,ULP Med Cardiology,107815,55,64
+1/3/2020,ULP Med Endocrinology,107801,18,18
+1/3/2020,ULP Med Gastroenterology,107859,29,32
+1/3/2020,ULP Med Hospitalists,,,
+1/3/2020,ULP Med Infect Disease,107829,44,44
+1/3/2020,ULP Med Nephrology,107827,86,93
+1/3/2020,ULP Med Oncology,,,
+1/3/2020,ULP Med Pulmomology,107803,81,95
+1/3/2020,ULP Med Rhuematology,,,
+1/3/2020,ULP Neurology,,,
+1/3/2020,ULP Neurosurgery,107845,25,65
+1/3/2020,ULP Obgyn Gyn Oncology,107813,24,31
+1/3/2020,ULP Obgyn Gen Obstetrics,107809,46,54
+1/3/2020,ULP Obgyn Gynecology,,,
+1/3/2020,ULP Obgyn Maternal Fetal,,,
+1/3/2020,ULP Obgyn Midwife,,,
+1/3/2020,ULP Obgyn Min Invasive,,,
+1/3/2020,ULP ObGyn Reprod Endo,,,
+1/3/2020,ULP Obgyn Ryan Residency,,,
+1/3/2020,ULP Obgyn Urogynecology,107843,1,2
+1/3/2020,ULP Opht Eye Specialists,,,
+1/3/2020,ULP Opht Services,,,
+1/3/2020,ULP Orthopedics,107833,17,29
+1/3/2020,ULP Otolaryngology,107805,66,111
+1/3/2020,ULP Peds Primary Care,107807,11,11
+1/3/2020,ULP Physical Med & Rehab,107825,171,174
+1/3/2020,ULP Plastic Surgery,,,
+1/3/2020,ULP Radiology,107835,243,294
+1/3/2020,ULP Surgical Oncology,107839,78,108
+1/3/2020,ULP Thoracic,,,
+1/3/2020,ULP Transplant Surgery,107853,7,7
+1/3/2020,ULP Trauma Surgery,,,
+1/3/2020,ULP Urology,,,
+1/3/2020,ULP Vascular Surgery,,,
+1/4/2020,Peds Allergy,,,
+1/4/2020,Peds BMT,,,
+1/4/2020,Peds Cardiology,107861,1,5
+1/4/2020,Peds CC,107865,36,42
+1/4/2020,Peds Endo DM,,,
+1/4/2020,Peds Endocrinology,,,
+1/4/2020,Peds Gastroenterology,,,
+1/4/2020,Peds HemOnc,,,
+1/4/2020,Peds Hospitalists,107867,8,8
+1/4/2020,Peds ID,,,
+1/4/2020,Peds Neonatology,107883,124,135
+1/4/2020,Peds Nephrology,,,
+1/4/2020,Peds Neurology,,,
+1/4/2020,Peds Psychiatry,,,
+1/4/2020,Peds Pulmonology,,,
+1/4/2020,Peds Rheumatology,,,
+1/4/2020,Peds Surgery,,,
+1/4/2020,Peds Urology,,,
+1/4/2020,ULP Cardiothoracic Adult,107869,11,13
+1/4/2020,ULP Cardiothoracic Peds,,,
+1/4/2020,ULP Colorectal Surgery,,,
+1/4/2020,ULP Fam Med Hospitalists,,,
+1/4/2020,ULP FMED Geriatrics Hospitialists,,,
+1/4/2020,ULP FMED Geriatrics Nursing Home,,,
+1/4/2020,ULP FMED Instit for Optimal Aging,,,
+1/4/2020,ULP General Surgery,,,
+1/4/2020,ULP Med BMT,,,
+1/4/2020,ULP Med Cardiology,107881,4,14
+1/4/2020,ULP Med Endocrinology,,,
+1/4/2020,ULP Med Gastroenterology,,,
+1/4/2020,ULP Med Hospitalists,,,
+1/4/2020,ULP Med Infect Disease,,,
+1/4/2020,ULP Med Nephrology,,,
+1/4/2020,ULP Med Oncology,,,
+1/4/2020,ULP Med Pulmomology,107863,56,72
+1/4/2020,ULP Med Rhuematology,,,
+1/4/2020,ULP Neurology,,,
+1/4/2020,ULP Neurosurgery,107877,7,7
+1/4/2020,ULP Obgyn Gyn Oncology,,,
+1/4/2020,ULP Obgyn Gen Obstetrics,107875,1,1
+1/4/2020,ULP Obgyn Gynecology,,,
+1/4/2020,ULP Obgyn Maternal Fetal,,,
+1/4/2020,ULP Obgyn Midwife,,,
+1/4/2020,ULP Obgyn Min Invasive,,,
+1/4/2020,ULP ObGyn Reprod Endo,,,
+1/4/2020,ULP Obgyn Ryan Residency,,,
+1/4/2020,ULP Obgyn Urogynecology,,,
+1/4/2020,ULP Opht Eye Specialists,,,
+1/4/2020,ULP Opht Services,,,
+1/4/2020,ULP Orthopedics,,,
+1/4/2020,ULP Otolaryngology,,,
+1/4/2020,ULP Peds Primary Care,,,
+1/4/2020,ULP Physical Med & Rehab,107879,64,64
+1/4/2020,ULP Plastic Surgery,,,
+1/4/2020,ULP Radiology,107873,19,24
+1/4/2020,ULP Surgical Oncology,,,
+1/4/2020,ULP Thoracic,107871,10,10
+1/4/2020,ULP Transplant Surgery,,,
+1/4/2020,ULP Trauma Surgery,,,
+1/4/2020,ULP Urology,,,
+1/4/2020,ULP Vascular Surgery,,,
+1/5/2020,Peds Allergy,,,
+1/5/2020,Peds BMT,,,
+1/5/2020,Peds Cardiology,,,
+1/5/2020,Peds CC,,,
+1/5/2020,Peds Endo DM,,,
+1/5/2020,Peds Endocrinology,,,
+1/5/2020,Peds Gastroenterology,,,
+1/5/2020,Peds HemOnc,,,
+1/5/2020,Peds Hospitalists,,,
+1/5/2020,Peds ID,107905,35,35
+1/5/2020,Peds Neonatology,,,
+1/5/2020,Peds Nephrology,,,
+1/5/2020,Peds Neurology,,,
+1/5/2020,Peds Psychiatry,,,
+1/5/2020,Peds Pulmonology,,,
+1/5/2020,Peds Rheumatology,,,
+1/5/2020,Peds Surgery,,,
+1/5/2020,Peds Urology,,,
+1/5/2020,ULP Cardiothoracic Adult,,,
+1/5/2020,ULP Cardiothoracic Peds,,,
+1/5/2020,ULP Colorectal Surgery,,,
+1/5/2020,ULP Fam Med Hospitalists,,,
+1/5/2020,ULP FMED Geriatrics Hospitialists,,,
+1/5/2020,ULP FMED Geriatrics Nursing Home,,,
+1/5/2020,ULP FMED Instit for Optimal Aging,,,
+1/5/2020,ULP General Surgery,,,
+1/5/2020,ULP Med BMT,,,
+1/5/2020,ULP Med Cardiology,107915,37,107
+1/5/2020,ULP Med Endocrinology,,,
+1/5/2020,ULP Med Gastroenterology,,,
+1/5/2020,ULP Med Hospitalists,,,
+1/5/2020,ULP Med Infect Disease,,,
+1/5/2020,ULP Med Nephrology,107917,23,23
+1/5/2020,ULP Med Oncology,,,
+1/5/2020,ULP Med Pulmomology,107903,15,32
+1/5/2020,ULP Med Rhuematology,,,
+1/5/2020,ULP Neurology,107909,13,13
+1/5/2020,ULP Neurosurgery,107913,2,2
+1/5/2020,ULP Obgyn Gyn Oncology,,,
+1/5/2020,ULP Obgyn Gen Obstetrics,107911,35,40
+1/5/2020,ULP Obgyn Gynecology,,,
+1/5/2020,ULP Obgyn Maternal Fetal,,,
+1/5/2020,ULP Obgyn Midwife,,,
+1/5/2020,ULP Obgyn Min Invasive,,,
+1/5/2020,ULP ObGyn Reprod Endo,,,
+1/5/2020,ULP Obgyn Ryan Residency,,,
+1/5/2020,ULP Obgyn Urogynecology,,,
+1/5/2020,ULP Opht Eye Specialists,,,
+1/5/2020,ULP Opht Services,,,
+1/5/2020,ULP Orthopedics,,,
+1/5/2020,ULP Otolaryngology,,,
+1/5/2020,ULP Peds Primary Care,,,
+1/5/2020,ULP Physical Med & Rehab,,,
+1/5/2020,ULP Plastic Surgery,,,
+1/5/2020,ULP Radiology,107907,72,96
+1/5/2020,ULP Surgical Oncology,,,
+1/5/2020,ULP Thoracic,,,
+1/5/2020,ULP Transplant Surgery,,,
+1/5/2020,ULP Trauma Surgery,107901,103,109
+1/5/2020,ULP Urology,,,
+1/5/2020,ULP Vascular Surgery,,,
+1/6/2020,Peds Allergy,,,
+1/6/2020,Peds BMT,,,
+1/6/2020,Peds Cardiology,,,
+1/6/2020,Peds CC,,,
+1/6/2020,Peds Endo DM,107953,32,32
+1/6/2020,Peds Endocrinology,107951,27,27
+1/6/2020,Peds Gastroenterology,,,
+1/6/2020,Peds HemOnc,,,
+1/6/2020,Peds Hospitalists,107977,211,214
+1/6/2020,Peds ID,107981,2,2
+1/6/2020,Peds Neonatology,107967,117,119
+1/6/2020,Peds Nephrology,,,
+1/6/2020,Peds Neurology,107941,37,37
+1/6/2020,Peds Psychiatry,,,
+1/6/2020,Peds Pulmonology,107979,12,13
+1/6/2020,Peds Rheumatology,107995,3,3
+1/6/2020,Peds Surgery,,,
+1/6/2020,Peds Urology,,,
+1/6/2020,ULP Cardiothoracic Adult,107983,34,39
+1/6/2020,ULP Cardiothoracic Peds,107987,2,2
+1/6/2020,ULP Colorectal Surgery,107943,5,5
+1/6/2020,ULP Fam Med Hospitalists,107959,25,25
+1/6/2020,ULP FMED Geriatrics Hospitialists,108001,1,2
+1/6/2020,ULP FMED Geriatrics Nursing Home,108013,17,19
+1/6/2020,ULP FMED Instit for Optimal Aging,,,
+1/6/2020,ULP General Surgery,107949,42,57
+1/6/2020,ULP Med BMT,,,
+1/6/2020,ULP Med Cardiology,108011,29,50
+1/6/2020,ULP Med Endocrinology,107955,30,30
+1/6/2020,ULP Med Gastroenterology,107975,72,73
+1/6/2020,ULP Med Hospitalists,107961,175,177
+1/6/2020,ULP Med Infect Disease,107969,19,19
+1/6/2020,ULP Med Nephrology,107945,43,43
+1/6/2020,ULP Med Oncology,107947,26,26
+1/6/2020,ULP Med Pulmomology,107973,141,158
+1/6/2020,ULP Med Rhuematology,,,
+1/6/2020,ULP Neurology,107997,49,53
+1/6/2020,ULP Neurosurgery,108007,37,45
+1/6/2020,ULP Obgyn Gyn Oncology,108005,7,7
+1/6/2020,ULP Obgyn Gen Obstetrics,107999,57,73
+1/6/2020,ULP Obgyn Gynecology,,,
+1/6/2020,ULP Obgyn Maternal Fetal,,,
+1/6/2020,ULP Obgyn Midwife,,,
+1/6/2020,ULP Obgyn Min Invasive,,,
+1/6/2020,ULP ObGyn Reprod Endo,,,
+1/6/2020,ULP Obgyn Ryan Residency,,,
+1/6/2020,ULP Obgyn Urogynecology,108003,37,67
+1/6/2020,ULP Opht Eye Specialists,,,
+1/6/2020,ULP Opht Services,,,
+1/6/2020,ULP Orthopedics,,,
+1/6/2020,ULP Otolaryngology,107985,82,119
+1/6/2020,ULP Peds Primary Care,107989,29,29
+1/6/2020,ULP Physical Med & Rehab,108009,101,106
+1/6/2020,ULP Plastic Surgery,,,
+1/6/2020,ULP Radiology,107993,177,211
+1/6/2020,ULP Surgical Oncology,,,
+1/6/2020,ULP Thoracic,107991,4,4
+1/6/2020,ULP Transplant Surgery,107965,13,14
+1/6/2020,ULP Trauma Surgery,107957,160,172
+1/6/2020,ULP Urology,107963,3,3
+1/6/2020,ULP Vascular Surgery,107971,25,57
+1/7/2020,Peds Allergy,,,
+1/7/2020,Peds BMT,108067,12,12
+1/7/2020,Peds Cardiology,,,
+1/7/2020,Peds CC,108039,80,81
+1/7/2020,Peds Endo DM,,,
+1/7/2020,Peds Endocrinology,,,
+1/7/2020,Peds Gastroenterology,,,
+1/7/2020,Peds HemOnc,108057,65,65
+1/7/2020,Peds Hospitalists,108073,144,144
+1/7/2020,Peds ID,,,
+1/7/2020,Peds Neonatology,108087,190,199
+1/7/2020,Peds Nephrology,108079,26,29
+1/7/2020,Peds Neurology,108031,32,33
+1/7/2020,Peds Psychiatry,,,
+1/7/2020,Peds Pulmonology,108077,22,24
+1/7/2020,Peds Rheumatology,,,
+1/7/2020,Peds Surgery,,,
+1/7/2020,Peds Urology,,,
+1/7/2020,ULP Cardiothoracic Adult,108083,19,29
+1/7/2020,ULP Cardiothoracic Peds,108095,1,1
+1/7/2020,ULP Colorectal Surgery,108035,16,18
+1/7/2020,ULP Fam Med Hospitalists,108033,3,3
+1/7/2020,ULP FMED Geriatrics Hospitialists,,,
+1/7/2020,ULP FMED Geriatrics Nursing Home,108029,35,35
+1/7/2020,ULP FMED Instit for Optimal Aging,,,
+1/7/2020,ULP General Surgery,108049,18,19
+1/7/2020,ULP Med BMT,,,
+1/7/2020,ULP Med Cardiology,108025,149,186
+1/7/2020,ULP Med Endocrinology,108071,22,22
+1/7/2020,ULP Med Gastroenterology,108047,130,137
+1/7/2020,ULP Med Hospitalists,108061,150,158
+1/7/2020,ULP Med Infect Disease,108089,11,11
+1/7/2020,ULP Med Nephrology,108041,92,92
+1/7/2020,ULP Med Oncology,108043,4,4
+1/7/2020,ULP Med Pulmomology,108037,148,155
+1/7/2020,ULP Med Rhuematology,,,
+1/7/2020,ULP Neurology,108059,102,102
+1/7/2020,ULP Neurosurgery,108085,80,112
+1/7/2020,ULP Obgyn Gyn Oncology,108081,4,4
+1/7/2020,ULP Obgyn Gen Obstetrics,,,
+1/7/2020,ULP Obgyn Gynecology,,,
+1/7/2020,ULP Obgyn Maternal Fetal,,,
+1/7/2020,ULP Obgyn Midwife,108055,33,38
+1/7/2020,ULP Obgyn Min Invasive,108045,14,17
+1/7/2020,ULP ObGyn Reprod Endo,,,
+1/7/2020,ULP Obgyn Ryan Residency,,,
+1/7/2020,ULP Obgyn Urogynecology,108075,14,14
+1/7/2020,ULP Opht Eye Specialists,,,
+1/7/2020,ULP Opht Services,,,
+1/7/2020,ULP Orthopedics,108051,19,34
+1/7/2020,ULP Otolaryngology,108093,11,35
+1/7/2020,ULP Peds Primary Care,108021,8,8
+1/7/2020,ULP Physical Med & Rehab,108097,137,137
+1/7/2020,ULP Plastic Surgery,,,
+1/7/2020,ULP Radiology,108053,104,129
+1/7/2020,ULP Surgical Oncology,108069,135,151
+1/7/2020,ULP Thoracic,108023,5,12
+1/7/2020,ULP Transplant Surgery,108065,33,43
+1/7/2020,ULP Trauma Surgery,108027,20,20
+1/7/2020,ULP Urology,108063,18,23
+1/7/2020,ULP Vascular Surgery,108091,74,141
+1/8/2020,Peds Allergy,,,
+1/8/2020,Peds BMT,,,
+1/8/2020,Peds Cardiology,108135,56,56
+1/8/2020,Peds CC,108139,146,151
+1/8/2020,Peds Endo DM,,,
+1/8/2020,Peds Endocrinology,,,
+1/8/2020,Peds Gastroenterology,108167,19,20
+1/8/2020,Peds HemOnc,,,
+1/8/2020,Peds Hospitalists,108145,99,99
+1/8/2020,Peds ID,108161,22,22
+1/8/2020,Peds Neonatology,108137,437,460
+1/8/2020,Peds Nephrology,,,
+1/8/2020,Peds Neurology,108165,19,22
+1/8/2020,Peds Psychiatry,,,
+1/8/2020,Peds Pulmonology,,,
+1/8/2020,Peds Rheumatology,,,
+1/8/2020,Peds Surgery,,,
+1/8/2020,Peds Urology,,,
+1/8/2020,ULP Cardiothoracic Adult,108163,55,58
+1/8/2020,ULP Cardiothoracic Peds,,,
+1/8/2020,ULP Colorectal Surgery,108175,7,7
+1/8/2020,ULP Fam Med Hospitalists,108169,42,42
+1/8/2020,ULP FMED Geriatrics Hospitialists,108131,6,6
+1/8/2020,ULP FMED Geriatrics Nursing Home,108157,1,1
+1/8/2020,ULP FMED Instit for Optimal Aging,,,
+1/8/2020,ULP General Surgery,108181,79,89
+1/8/2020,ULP Med BMT,,,
+1/8/2020,ULP Med Cardiology,108143,170,190
+1/8/2020,ULP Med Endocrinology,108133,31,31
+1/8/2020,ULP Med Gastroenterology,108177,105,113
+1/8/2020,ULP Med Hospitalists,,,
+1/8/2020,ULP Med Infect Disease,,,
+1/8/2020,ULP Med Nephrology,108151,65,67
+1/8/2020,ULP Med Oncology,,,
+1/8/2020,ULP Med Pulmomology,108121,154,170
+1/8/2020,ULP Med Rhuematology,,,
+1/8/2020,ULP Neurology,108149,48,48
+1/8/2020,ULP Neurosurgery,108179,24,28
+1/8/2020,ULP Obgyn Gyn Oncology,108159,27,29
+1/8/2020,ULP Obgyn Gen Obstetrics,108185,30,42
+1/8/2020,ULP Obgyn Gynecology,,,
+1/8/2020,ULP Obgyn Maternal Fetal,,,
+1/8/2020,ULP Obgyn Midwife,,,
+1/8/2020,ULP Obgyn Min Invasive,108155,53,68
+1/8/2020,ULP ObGyn Reprod Endo,,,
+1/8/2020,ULP Obgyn Ryan Residency,,,
+1/8/2020,ULP Obgyn Urogynecology,,,
+1/8/2020,ULP Opht Eye Specialists,,,
+1/8/2020,ULP Opht Services,,,
+1/8/2020,ULP Orthopedics,108187,22,47
+1/8/2020,ULP Otolaryngology,108147,4,9
+1/8/2020,ULP Peds Primary Care,108123,5,5
+1/8/2020,ULP Physical Med & Rehab,108173,119,132
+1/8/2020,ULP Plastic Surgery,108171,32,71
+1/8/2020,ULP Radiology,108127,162,243
+1/8/2020,ULP Surgical Oncology,108129,108,144
+1/8/2020,ULP Thoracic,108125,30,32
+1/8/2020,ULP Transplant Surgery,108183,14,19
+1/8/2020,ULP Trauma Surgery,108153,40,40
+1/8/2020,ULP Urology,,,
+1/8/2020,ULP Vascular Surgery,108141,22,56
+1/9/2020,Peds Allergy,,,
+1/9/2020,Peds BMT,108341,7,7
+1/9/2020,Peds Cardiology,,,
+1/9/2020,Peds CC,108303,69,73
+1/9/2020,Peds Endo DM,,,
+1/9/2020,Peds Endocrinology,,,
+1/9/2020,Peds Gastroenterology,,,
+1/9/2020,Peds HemOnc,108305,106,106
+1/9/2020,Peds Hospitalists,108349,73,73
+1/9/2020,Peds ID,108327,8,8
+1/9/2020,Peds Neonatology,108285,119,121
+1/9/2020,Peds Nephrology,108315,24,30
+1/9/2020,Peds Neurology,108337,23,25
+1/9/2020,Peds Psychiatry,,,
+1/9/2020,Peds Pulmonology,108301,69,81
+1/9/2020,Peds Rheumatology,108307,1,1
+1/9/2020,Peds Surgery,,,
+1/9/2020,Peds Urology,,,
+1/9/2020,ULP Cardiothoracic Adult,108333,40,48
+1/9/2020,ULP Cardiothoracic Peds,108353,1,1
+1/9/2020,ULP Colorectal Surgery,108291,5,5
+1/9/2020,ULP Fam Med Hospitalists,108347,8,8
+1/9/2020,ULP FMED Geriatrics Hospitialists,108317,3,3
+1/9/2020,ULP FMED Geriatrics Nursing Home,,,
+1/9/2020,ULP FMED Instit for Optimal Aging,,,
+1/9/2020,ULP General Surgery,108331,78,83
+1/9/2020,ULP Med BMT,108281,120,143
+1/9/2020,ULP Med Cardiology,108343,27,38
+1/9/2020,ULP Med Endocrinology,108297,19,19
+1/9/2020,ULP Med Gastroenterology,108311,126,127
+1/9/2020,ULP Med Hospitalists,108293,13,15
+1/9/2020,ULP Med Infect Disease,108287,13,13
+1/9/2020,ULP Med Nephrology,108295,56,56
+1/9/2020,ULP Med Oncology,,,
+1/9/2020,ULP Med Pulmomology,108321,59,74
+1/9/2020,ULP Med Rhuematology,,,
+1/9/2020,ULP Neurology,108283,95,101
+1/9/2020,ULP Neurosurgery,108319,41,88
+1/9/2020,ULP Obgyn Gyn Oncology,108323,13,15
+1/9/2020,ULP Obgyn Gen Obstetrics,108339,17,21
+1/9/2020,ULP Obgyn Gynecology,,,
+1/9/2020,ULP Obgyn Maternal Fetal,108357,45,72
+1/9/2020,ULP Obgyn Midwife,,,
+1/9/2020,ULP Obgyn Min Invasive,108313,33,44
+1/9/2020,ULP ObGyn Reprod Endo,,,
+1/9/2020,ULP Obgyn Ryan Residency,,,
+1/9/2020,ULP Obgyn Urogynecology,,,
+1/9/2020,ULP Opht Eye Specialists,,,
+1/9/2020,ULP Opht Services,,,
+1/9/2020,ULP Orthopedics,108345,25,51
+1/9/2020,ULP Otolaryngology,108351,70,102
+1/9/2020,ULP Peds Primary Care,108325,8,8
+1/9/2020,ULP Physical Med & Rehab,108289,117,117
+1/9/2020,ULP Plastic Surgery,,,
+1/9/2020,ULP Radiology,108355,752,949
+1/9/2020,ULP Surgical Oncology,,,
+1/9/2020,ULP Thoracic,108329,12,19
+1/9/2020,ULP Transplant Surgery,108335,7,16
+1/9/2020,ULP Trauma Surgery,108299,172,200
+1/9/2020,ULP Urology,,,
+1/9/2020,ULP Vascular Surgery,108309,25,36
+1/10/2020,Peds Allergy,,,
+1/10/2020,Peds BMT,,,
+1/10/2020,Peds Cardiology,108431,5,18
+1/10/2020,Peds CC,108411,49,50
+1/10/2020,Peds Endo DM,,,
+1/10/2020,Peds Endocrinology,,,
+1/10/2020,Peds Gastroenterology,108385,1,2
+1/10/2020,Peds HemOnc,,,
+1/10/2020,Peds Hospitalists,108425,118,118
+1/10/2020,Peds ID,,,
+1/10/2020,Peds Neonatology,108369,98,103
+1/10/2020,Peds Nephrology,108389,17,20
+1/10/2020,Peds Neurology,108379,24,28
+1/10/2020,Peds Psychiatry,108409,56,56
+1/10/2020,Peds Pulmonology,,,
+1/10/2020,Peds Rheumatology,,,
+1/10/2020,Peds Surgery,,,
+1/10/2020,Peds Urology,,,
+1/10/2020,ULP Cardiothoracic Adult,108365,29,32
+1/10/2020,ULP Cardiothoracic Peds,108363,1,2
+1/10/2020,ULP Colorectal Surgery,108399,56,65
+1/10/2020,ULP Fam Med Hospitalists,,,
+1/10/2020,ULP FMED Geriatrics Hospitialists,108415,6,6
+1/10/2020,ULP FMED Geriatrics Nursing Home,108391,2,2
+1/10/2020,ULP FMED Instit for Optimal Aging,,,
+1/10/2020,ULP General Surgery,108435,57,60
+1/10/2020,ULP Med BMT,,,
+1/10/2020,ULP Med Cardiology,108387,72,76
+1/10/2020,ULP Med Endocrinology,108421,27,27
+1/10/2020,ULP Med Gastroenterology,108381,159,173
+1/10/2020,ULP Med Hospitalists,108403,128,129
+1/10/2020,ULP Med Infect Disease,108375,6,6
+1/10/2020,ULP Med Nephrology,108413,66,74
+1/10/2020,ULP Med Oncology,108373,30,30
+1/10/2020,ULP Med Pulmomology,108417,63,85
+1/10/2020,ULP Med Rhuematology,,,
+1/10/2020,ULP Neurology,108429,57,68
+1/10/2020,ULP Neurosurgery,108401,25,57
+1/10/2020,ULP Obgyn Gyn Oncology,108419,15,19
+1/10/2020,ULP Obgyn Gen Obstetrics,108383,35,43
+1/10/2020,ULP Obgyn Gynecology,,,
+1/10/2020,ULP Obgyn Maternal Fetal,,,
+1/10/2020,ULP Obgyn Midwife,,,
+1/10/2020,ULP Obgyn Min Invasive,,,
+1/10/2020,ULP ObGyn Reprod Endo,,,
+1/10/2020,ULP Obgyn Ryan Residency,,,
+1/10/2020,ULP Obgyn Urogynecology,,,
+1/10/2020,ULP Opht Eye Specialists,,,
+1/10/2020,ULP Opht Services,,,
+1/10/2020,ULP Orthopedics,108393,31,53
+1/10/2020,ULP Otolaryngology,108361,6,10
+1/10/2020,ULP Peds Primary Care,108423,12,12
+1/10/2020,ULP Physical Med & Rehab,108395,36,40
+1/10/2020,ULP Plastic Surgery,108397,11,16
+1/10/2020,ULP Radiology,108377,867,1140
+1/10/2020,ULP Surgical Oncology,108407,9,11
+1/10/2020,ULP Thoracic,108427,20,20
+1/10/2020,ULP Transplant Surgery,108367,2,2
+1/10/2020,ULP Trauma Surgery,108371,109,115
+1/10/2020,ULP Urology,108405,7,9
+1/10/2020,ULP Vascular Surgery,108433,46,83
+1/11/2020,Peds Allergy,,,
+1/11/2020,Peds BMT,,,
+1/11/2020,Peds Cardiology,,,
+1/11/2020,Peds CC,108453,52,52
+1/11/2020,Peds Endo DM,,,
+1/11/2020,Peds Endocrinology,,,
+1/11/2020,Peds Gastroenterology,,,
+1/11/2020,Peds HemOnc,,,
+1/11/2020,Peds Hospitalists,,,
+1/11/2020,Peds ID,,,
+1/11/2020,Peds Neonatology,108459,88,96
+1/11/2020,Peds Nephrology,,,
+1/11/2020,Peds Neurology,,,
+1/11/2020,Peds Psychiatry,,,
+1/11/2020,Peds Pulmonology,,,
+1/11/2020,Peds Rheumatology,,,
+1/11/2020,Peds Surgery,,,
+1/11/2020,Peds Urology,,,
+1/11/2020,ULP Cardiothoracic Adult,108447,10,15
+1/11/2020,ULP Cardiothoracic Peds,,,
+1/11/2020,ULP Colorectal Surgery,,,
+1/11/2020,ULP Fam Med Hospitalists,,,
+1/11/2020,ULP FMED Geriatrics Hospitialists,,,
+1/11/2020,ULP FMED Geriatrics Nursing Home,108465,1,1
+1/11/2020,ULP FMED Instit for Optimal Aging,,,
+1/11/2020,ULP General Surgery,,,
+1/11/2020,ULP Med BMT,108475,7,7
+1/11/2020,ULP Med Cardiology,108463,80,104
+1/11/2020,ULP Med Endocrinology,,,
+1/11/2020,ULP Med Gastroenterology,108451,35,35
+1/11/2020,ULP Med Hospitalists,108441,34,34
+1/11/2020,ULP Med Infect Disease,,,
+1/11/2020,ULP Med Nephrology,108461,18,18
+1/11/2020,ULP Med Oncology,108477,16,16
+1/11/2020,ULP Med Pulmomology,108467,9,14
+1/11/2020,ULP Med Rhuematology,,,
+1/11/2020,ULP Neurology,108443,63,64
+1/11/2020,ULP Neurosurgery,108479,77,77
+1/11/2020,ULP Obgyn Gyn Oncology,,,
+1/11/2020,ULP Obgyn Gen Obstetrics,108455,1,3
+1/11/2020,ULP Obgyn Gynecology,,,
+1/11/2020,ULP Obgyn Maternal Fetal,,,
+1/11/2020,ULP Obgyn Midwife,108445,2,2
+1/11/2020,ULP Obgyn Min Invasive,108457,3,4
+1/11/2020,ULP ObGyn Reprod Endo,,,
+1/11/2020,ULP Obgyn Ryan Residency,,,
+1/11/2020,ULP Obgyn Urogynecology,,,
+1/11/2020,ULP Opht Eye Specialists,,,
+1/11/2020,ULP Opht Services,,,
+1/11/2020,ULP Orthopedics,108469,9,21
+1/11/2020,ULP Otolaryngology,,,
+1/11/2020,ULP Peds Primary Care,108473,9,9
+1/11/2020,ULP Physical Med & Rehab,108471,23,24
+1/11/2020,ULP Plastic Surgery,,,
+1/11/2020,ULP Radiology,108481,148,183
+1/11/2020,ULP Surgical Oncology,,,
+1/11/2020,ULP Thoracic,108483,1,1
+1/11/2020,ULP Transplant Surgery,,,
+1/11/2020,ULP Trauma Surgery,,,
+1/11/2020,ULP Urology,,,
+1/11/2020,ULP Vascular Surgery,108449,8,8
+1/12/2020,Peds Allergy,,,
+1/12/2020,Peds BMT,,,
+1/12/2020,Peds Cardiology,,,
+1/12/2020,Peds CC,,,
+1/12/2020,Peds Endo DM,,,
+1/12/2020,Peds Endocrinology,,,
+1/12/2020,Peds Gastroenterology,,,
+1/12/2020,Peds HemOnc,,,
+1/12/2020,Peds Hospitalists,,,
+1/12/2020,Peds ID,,,
+1/12/2020,Peds Neonatology,108537,21,21
+1/12/2020,Peds Nephrology,,,
+1/12/2020,Peds Neurology,,,
+1/12/2020,Peds Psychiatry,,,
+1/12/2020,Peds Pulmonology,,,
+1/12/2020,Peds Rheumatology,,,
+1/12/2020,Peds Surgery,,,
+1/12/2020,Peds Urology,,,
+1/12/2020,ULP Cardiothoracic Adult,,,
+1/12/2020,ULP Cardiothoracic Peds,,,
+1/12/2020,ULP Colorectal Surgery,,,
+1/12/2020,ULP Fam Med Hospitalists,,,
+1/12/2020,ULP FMED Geriatrics Hospitialists,,,
+1/12/2020,ULP FMED Geriatrics Nursing Home,,,
+1/12/2020,ULP FMED Instit for Optimal Aging,,,
+1/12/2020,ULP General Surgery,,,
+1/12/2020,ULP Med BMT,108549,9,9
+1/12/2020,ULP Med Cardiology,108541,43,75
+1/12/2020,ULP Med Endocrinology,,,
+1/12/2020,ULP Med Gastroenterology,,,
+1/12/2020,ULP Med Hospitalists,108525,65,65
+1/12/2020,ULP Med Infect Disease,108523,11,11
+1/12/2020,ULP Med Nephrology,108539,95,95
+1/12/2020,ULP Med Oncology,108521,11,11
+1/12/2020,ULP Med Pulmomology,108543,16,16
+1/12/2020,ULP Med Rhuematology,,,
+1/12/2020,ULP Neurology,108529,33,33
+1/12/2020,ULP Neurosurgery,108527,46,46
+1/12/2020,ULP Obgyn Gyn Oncology,108545,13,13
+1/12/2020,ULP Obgyn Gen Obstetrics,108533,13,15
+1/12/2020,ULP Obgyn Gynecology,,,
+1/12/2020,ULP Obgyn Maternal Fetal,,,
+1/12/2020,ULP Obgyn Midwife,,,
+1/12/2020,ULP Obgyn Min Invasive,108535,10,10
+1/12/2020,ULP ObGyn Reprod Endo,,,
+1/12/2020,ULP Obgyn Ryan Residency,,,
+1/12/2020,ULP Obgyn Urogynecology,,,
+1/12/2020,ULP Opht Eye Specialists,,,
+1/12/2020,ULP Opht Services,,,
+1/12/2020,ULP Orthopedics,,,
+1/12/2020,ULP Otolaryngology,,,
+1/12/2020,ULP Peds Primary Care,108547,8,8
+1/12/2020,ULP Physical Med & Rehab,,,
+1/12/2020,ULP Plastic Surgery,,,
+1/12/2020,ULP Radiology,108531,103,132
+1/12/2020,ULP Surgical Oncology,,,
+1/12/2020,ULP Thoracic,,,
+1/12/2020,ULP Transplant Surgery,,,
+1/12/2020,ULP Trauma Surgery,,,
+1/12/2020,ULP Urology,,,
+1/12/2020,ULP Vascular Surgery,,,
+1/13/2020,Peds Allergy,,,
+1/13/2020,Peds BMT,,,
+1/13/2020,Peds Cardiology,,,
+1/13/2020,Peds CC,108683,60,60
+1/13/2020,Peds Endo DM,,,
+1/13/2020,Peds Endocrinology,,,
+1/13/2020,Peds Gastroenterology,108687,19,22
+1/13/2020,Peds HemOnc,,,
+1/13/2020,Peds Hospitalists,108677,110,110
+1/13/2020,Peds ID,,,
+1/13/2020,Peds Neonatology,108621,42,43
+1/13/2020,Peds Nephrology,108633,5,5
+1/13/2020,Peds Neurology,108679,2,2
+1/13/2020,Peds Psychiatry,,,
+1/13/2020,Peds Pulmonology,108693,31,34
+1/13/2020,Peds Rheumatology,108659,1,1
+1/13/2020,Peds Surgery,,,
+1/13/2020,Peds Urology,,,
+1/13/2020,ULP Cardiothoracic Adult,108667,24,27
+1/13/2020,ULP Cardiothoracic Peds,,,
+1/13/2020,ULP Colorectal Surgery,108653,4,5
+1/13/2020,ULP Fam Med Hospitalists,108645,2,2
+1/13/2020,ULP FMED Geriatrics Hospitialists,,,
+1/13/2020,ULP FMED Geriatrics Nursing Home,108635,7,7
+1/13/2020,ULP FMED Instit for Optimal Aging,,,
+1/13/2020,ULP General Surgery,108673,16,17
+1/13/2020,ULP Med BMT,108655,6,6
+1/13/2020,ULP Med Cardiology,108631,24,28
+1/13/2020,ULP Med Endocrinology,108647,2,2
+1/13/2020,ULP Med Gastroenterology,108671,54,66
+1/13/2020,ULP Med Hospitalists,108627,121,123
+1/13/2020,ULP Med Infect Disease,108623,25,25
+1/13/2020,ULP Med Nephrology,108629,47,54
+1/13/2020,ULP Med Oncology,,,
+1/13/2020,ULP Med Pulmomology,108639,108,144
+1/13/2020,ULP Med Rhuematology,,,
+1/13/2020,ULP Neurology,108657,28,28
+1/13/2020,ULP Neurosurgery,108637,31,35
+1/13/2020,ULP Obgyn Gyn Oncology,,,
+1/13/2020,ULP Obgyn Gen Obstetrics,108685,25,40
+1/13/2020,ULP Obgyn Gynecology,,,
+1/13/2020,ULP Obgyn Maternal Fetal,108689,5,13
+1/13/2020,ULP Obgyn Midwife,108663,2,2
+1/13/2020,ULP Obgyn Min Invasive,108691,5,5
+1/13/2020,ULP ObGyn Reprod Endo,,,
+1/13/2020,ULP Obgyn Ryan Residency,,,
+1/13/2020,ULP Obgyn Urogynecology,,,
+1/13/2020,ULP Opht Eye Specialists,,,
+1/13/2020,ULP Opht Services,,,
+1/13/2020,ULP Orthopedics,108641,9,15
+1/13/2020,ULP Otolaryngology,108625,18,33
+1/13/2020,ULP Peds Primary Care,108649,9,9
+1/13/2020,ULP Physical Med & Rehab,108643,87,90
+1/13/2020,ULP Plastic Surgery,,,
+1/13/2020,ULP Radiology,108675,120,137
+1/13/2020,ULP Surgical Oncology,108665,3,5
+1/13/2020,ULP Thoracic,108681,7,7
+1/13/2020,ULP Transplant Surgery,,,
+1/13/2020,ULP Trauma Surgery,108651,102,104
+1/13/2020,ULP Urology,108661,6,7
+1/13/2020,ULP Vascular Surgery,108669,36,63
+1/14/2020,Peds Allergy,,,
+1/14/2020,Peds BMT,108759,6,7
+1/14/2020,Peds Cardiology,108755,34,34
+1/14/2020,Peds CC,108745,194,200
+1/14/2020,Peds Endo DM,,,
+1/14/2020,Peds Endocrinology,,,
+1/14/2020,Peds Gastroenterology,108763,3,3
+1/14/2020,Peds HemOnc,108749,44,44
+1/14/2020,Peds Hospitalists,108731,176,181
+1/14/2020,Peds ID,108727,20,20
+1/14/2020,Peds Neonatology,108707,126,135
+1/14/2020,Peds Nephrology,,,
+1/14/2020,Peds Neurology,108733,15,15
+1/14/2020,Peds Psychiatry,108773,37,37
+1/14/2020,Peds Pulmonology,,,
+1/14/2020,Peds Rheumatology,,,
+1/14/2020,Peds Surgery,,,
+1/14/2020,Peds Urology,,,
+1/14/2020,ULP Cardiothoracic Adult,108765,19,22
+1/14/2020,ULP Cardiothoracic Peds,108717,2,6
+1/14/2020,ULP Colorectal Surgery,108739,6,6
+1/14/2020,ULP Fam Med Hospitalists,108719,8,8
+1/14/2020,ULP FMED Geriatrics Hospitialists,,,
+1/14/2020,ULP FMED Geriatrics Nursing Home,108751,39,39
+1/14/2020,ULP FMED Instit for Optimal Aging,,,
+1/14/2020,ULP General Surgery,108779,41,54
+1/14/2020,ULP Med BMT,108741,13,13
+1/14/2020,ULP Med Cardiology,108743,34,39
+1/14/2020,ULP Med Endocrinology,108721,18,18
+1/14/2020,ULP Med Gastroenterology,108777,20,21
+1/14/2020,ULP Med Hospitalists,108775,159,161
+1/14/2020,ULP Med Infect Disease,108711,32,32
+1/14/2020,ULP Med Nephrology,108729,62,66
+1/14/2020,ULP Med Oncology,108709,13,13
+1/14/2020,ULP Med Pulmomology,108701,78,96
+1/14/2020,ULP Med Rhuematology,,,
+1/14/2020,ULP Neurology,108747,50,50
+1/14/2020,ULP Neurosurgery,108769,64,69
+1/14/2020,ULP Obgyn Gyn Oncology,108705,7,7
+1/14/2020,ULP Obgyn Gen Obstetrics,108757,67,79
+1/14/2020,ULP Obgyn Gynecology,,,
+1/14/2020,ULP Obgyn Maternal Fetal,108767,7,14
+1/14/2020,ULP Obgyn Midwife,,,
+1/14/2020,ULP Obgyn Min Invasive,,,
+1/14/2020,ULP ObGyn Reprod Endo,,,
+1/14/2020,ULP Obgyn Ryan Residency,,,
+1/14/2020,ULP Obgyn Urogynecology,,,
+1/14/2020,ULP Opht Eye Specialists,,,
+1/14/2020,ULP Opht Services,,,
+1/14/2020,ULP Orthopedics,108703,21,51
+1/14/2020,ULP Otolaryngology,,,
+1/14/2020,ULP Peds Primary Care,108725,14,14
+1/14/2020,ULP Physical Med & Rehab,108715,160,165
+1/14/2020,ULP Plastic Surgery,108723,10,17
+1/14/2020,ULP Radiology,108713,5,5
+1/14/2020,ULP Surgical Oncology,108761,6,6
+1/14/2020,ULP Thoracic,108735,9,10
+1/14/2020,ULP Transplant Surgery,,,
+1/14/2020,ULP Trauma Surgery,108737,135,145
+1/14/2020,ULP Urology,108753,48,52
+1/14/2020,ULP Vascular Surgery,108771,5,14
+1/15/2020,Peds Allergy,,,
+1/15/2020,Peds BMT,,,
+1/15/2020,Peds Cardiology,108873,58,58
+1/15/2020,Peds CC,108849,68,73
+1/15/2020,Peds Endo DM,,,
+1/15/2020,Peds Endocrinology,,,
+1/15/2020,Peds Gastroenterology,,,
+1/15/2020,Peds HemOnc,,,
+1/15/2020,Peds Hospitalists,108863,175,177
+1/15/2020,Peds ID,,,
+1/15/2020,Peds Neonatology,108847,278,305
+1/15/2020,Peds Nephrology,,,
+1/15/2020,Peds Neurology,108867,48,49
+1/15/2020,Peds Psychiatry,,,
+1/15/2020,Peds Pulmonology,,,
+1/15/2020,Peds Rheumatology,,,
+1/15/2020,Peds Surgery,,,
+1/15/2020,Peds Urology,,,
+1/15/2020,ULP Cardiothoracic Adult,108823,29,40
+1/15/2020,ULP Cardiothoracic Peds,108807,4,4
+1/15/2020,ULP Colorectal Surgery,108813,23,26
+1/15/2020,ULP Fam Med Hospitalists,108811,36,36
+1/15/2020,ULP FMED Geriatrics Hospitialists,108845,3,3
+1/15/2020,ULP FMED Geriatrics Nursing Home,108865,37,40
+1/15/2020,ULP FMED Instit for Optimal Aging,,,
+1/15/2020,ULP General Surgery,108861,54,69
+1/15/2020,ULP Med BMT,,,
+1/15/2020,ULP Med Cardiology,108829,91,122
+1/15/2020,ULP Med Endocrinology,108817,35,35
+1/15/2020,ULP Med Gastroenterology,108859,151,170
+1/15/2020,ULP Med Hospitalists,108855,67,67
+1/15/2020,ULP Med Infect Disease,,,
+1/15/2020,ULP Med Nephrology,108843,40,43
+1/15/2020,ULP Med Oncology,108851,11,11
+1/15/2020,ULP Med Pulmomology,108821,57,67
+1/15/2020,ULP Med Rhuematology,,,
+1/15/2020,ULP Neurology,108853,85,86
+1/15/2020,ULP Neurosurgery,108839,36,48
+1/15/2020,ULP Obgyn Gyn Oncology,108837,27,32
+1/15/2020,ULP Obgyn Gen Obstetrics,108815,33,38
+1/15/2020,ULP Obgyn Gynecology,,,
+1/15/2020,ULP Obgyn Maternal Fetal,108833,7,12
+1/15/2020,ULP Obgyn Midwife,,,
+1/15/2020,ULP Obgyn Min Invasive,,,
+1/15/2020,ULP ObGyn Reprod Endo,,,
+1/15/2020,ULP Obgyn Ryan Residency,108835,2,4
+1/15/2020,ULP Obgyn Urogynecology,,,
+1/15/2020,ULP Opht Eye Specialists,,,
+1/15/2020,ULP Opht Services,108805,1,2
+1/15/2020,ULP Orthopedics,108831,22,43
+1/15/2020,ULP Otolaryngology,108803,46,81
+1/15/2020,ULP Peds Primary Care,108827,8,8
+1/15/2020,ULP Physical Med & Rehab,108801,128,148
+1/15/2020,ULP Plastic Surgery,,,
+1/15/2020,ULP Radiology,108857,8,10
+1/15/2020,ULP Surgical Oncology,108819,110,153
+1/15/2020,ULP Thoracic,108869,1,1
+1/15/2020,ULP Transplant Surgery,108825,16,25
+1/15/2020,ULP Trauma Surgery,108809,27,27
+1/15/2020,ULP Urology,108871,16,17
+1/15/2020,ULP Vascular Surgery,108841,10,23
+1/16/2020,Peds Allergy,,,
+1/16/2020,Peds BMT,,,
+1/16/2020,Peds Cardiology,108927,37,57
+1/16/2020,Peds CC,108957,1,1
+1/16/2020,Peds Endo DM,,,
+1/16/2020,Peds Endocrinology,,,
+1/16/2020,Peds Gastroenterology,,,
+1/16/2020,Peds HemOnc,,,
+1/16/2020,Peds Hospitalists,108965,294,295
+1/16/2020,Peds ID,108905,18,18
+1/16/2020,Peds Neonatology,108955,154,168
+1/16/2020,Peds Nephrology,,,
+1/16/2020,Peds Neurology,108909,36,36
+1/16/2020,Peds Psychiatry,108925,36,36
+1/16/2020,Peds Pulmonology,108915,29,33
+1/16/2020,Peds Rheumatology,108937,1,1
+1/16/2020,Peds Surgery,,,
+1/16/2020,Peds Urology,,,
+1/16/2020,ULP Cardiothoracic Adult,108945,44,52
+1/16/2020,ULP Cardiothoracic Peds,108951,1,1
+1/16/2020,ULP Colorectal Surgery,108961,33,41
+1/16/2020,ULP Fam Med Hospitalists,,,
+1/16/2020,ULP FMED Geriatrics Hospitialists,,,
+1/16/2020,ULP FMED Geriatrics Nursing Home,108973,37,37
+1/16/2020,ULP FMED Instit for Optimal Aging,,,
+1/16/2020,ULP General Surgery,108943,64,64
+1/16/2020,ULP Med BMT,108977,129,154
+1/16/2020,ULP Med Cardiology,108963,71,84
+1/16/2020,ULP Med Endocrinology,108907,28,28
+1/16/2020,ULP Med Gastroenterology,108935,51,58
+1/16/2020,ULP Med Hospitalists,108919,78,78
+1/16/2020,ULP Med Infect Disease,108903,40,40
+1/16/2020,ULP Med Nephrology,108923,64,64
+1/16/2020,ULP Med Oncology,108959,9,9
+1/16/2020,ULP Med Pulmomology,108939,83,102
+1/16/2020,ULP Med Rhuematology,,,
+1/16/2020,ULP Neurology,108901,99,119
+1/16/2020,ULP Neurosurgery,108913,45,79
+1/16/2020,ULP Obgyn Gyn Oncology,,,
+1/16/2020,ULP Obgyn Gen Obstetrics,108975,53,74
+1/16/2020,ULP Obgyn Gynecology,,,
+1/16/2020,ULP Obgyn Maternal Fetal,108969,30,52
+1/16/2020,ULP Obgyn Midwife,108929,2,2
+1/16/2020,ULP Obgyn Min Invasive,108971,5,9
+1/16/2020,ULP ObGyn Reprod Endo,,,
+1/16/2020,ULP Obgyn Ryan Residency,,,
+1/16/2020,ULP Obgyn Urogynecology,,,
+1/16/2020,ULP Opht Eye Specialists,,,
+1/16/2020,ULP Opht Services,,,
+1/16/2020,ULP Orthopedics,108967,21,39
+1/16/2020,ULP Otolaryngology,108947,39,47
+1/16/2020,ULP Peds Primary Care,108949,8,8
+1/16/2020,ULP Physical Med & Rehab,108933,89,90
+1/16/2020,ULP Plastic Surgery,108941,3,4
+1/16/2020,ULP Radiology,,,
+1/16/2020,ULP Surgical Oncology,108931,168,198
+1/16/2020,ULP Thoracic,108911,8,8
+1/16/2020,ULP Transplant Surgery,,,
+1/16/2020,ULP Trauma Surgery,108953,4,4
+1/16/2020,ULP Urology,108917,33,33
+1/16/2020,ULP Vascular Surgery,108921,30,53
+1/17/2020,Peds Allergy,,,
+1/17/2020,Peds BMT,,,
+1/17/2020,Peds Cardiology,108981,22,50
+1/17/2020,Peds CC,109001,44,44
+1/17/2020,Peds Endo DM,108987,18,18
+1/17/2020,Peds Endocrinology,108991,18,18
+1/17/2020,Peds Gastroenterology,109023,11,14
+1/17/2020,Peds HemOnc,,,
+1/17/2020,Peds Hospitalists,109027,250,251
+1/17/2020,Peds ID,,,
+1/17/2020,Peds Neonatology,108997,201,215
+1/17/2020,Peds Nephrology,,,
+1/17/2020,Peds Neurology,109029,16,16
+1/17/2020,Peds Psychiatry,,,
+1/17/2020,Peds Pulmonology,,,
+1/17/2020,Peds Rheumatology,,,
+1/17/2020,Peds Surgery,,,
+1/17/2020,Peds Urology,,,
+1/17/2020,ULP Cardiothoracic Adult,109035,3,6
+1/17/2020,ULP Cardiothoracic Peds,109053,3,7
+1/17/2020,ULP Colorectal Surgery,109015,1,1
+1/17/2020,ULP Fam Med Hospitalists,108999,15,15
+1/17/2020,ULP FMED Geriatrics Hospitialists,109033,9,9
+1/17/2020,ULP FMED Geriatrics Nursing Home,108983,40,40
+1/17/2020,ULP FMED Instit for Optimal Aging,108985,9,9
+1/17/2020,ULP General Surgery,109019,86,92
+1/17/2020,ULP Med BMT,109017,14,18
+1/17/2020,ULP Med Cardiology,109039,115,140
+1/17/2020,ULP Med Endocrinology,109025,19,19
+1/17/2020,ULP Med Gastroenterology,108989,199,212
+1/17/2020,ULP Med Hospitalists,,,
+1/17/2020,ULP Med Infect Disease,109009,20,20
+1/17/2020,ULP Med Nephrology,109031,59,78
+1/17/2020,ULP Med Oncology,109007,1,1
+1/17/2020,ULP Med Pulmomology,109003,37,47
+1/17/2020,ULP Med Rhuematology,,,
+1/17/2020,ULP Neurology,108995,87,91
+1/17/2020,ULP Neurosurgery,109057,32,41
+1/17/2020,ULP Obgyn Gyn Oncology,109011,23,24
+1/17/2020,ULP Obgyn Gen Obstetrics,108993,48,73
+1/17/2020,ULP Obgyn Gynecology,,,
+1/17/2020,ULP Obgyn Maternal Fetal,109047,5,7
+1/17/2020,ULP Obgyn Midwife,,,
+1/17/2020,ULP Obgyn Min Invasive,109051,6,8
+1/17/2020,ULP ObGyn Reprod Endo,,,
+1/17/2020,ULP Obgyn Ryan Residency,,,
+1/17/2020,ULP Obgyn Urogynecology,,,
+1/17/2020,ULP Opht Eye Specialists,,,
+1/17/2020,ULP Opht Services,,,
+1/17/2020,ULP Orthopedics,109041,25,52
+1/17/2020,ULP Otolaryngology,109045,37,69
+1/17/2020,ULP Peds Primary Care,109049,7,7
+1/17/2020,ULP Physical Med & Rehab,109059,83,85
+1/17/2020,ULP Plastic Surgery,,,
+1/17/2020,ULP Radiology,,,
+1/17/2020,ULP Surgical Oncology,109021,19,23
+1/17/2020,ULP Thoracic,109043,8,9
+1/17/2020,ULP Transplant Surgery,109037,14,21
+1/17/2020,ULP Trauma Surgery,109055,228,239
+1/17/2020,ULP Urology,,,
+1/17/2020,ULP Vascular Surgery,109013,11,18
+1/18/2020,Peds Allergy,,,
+1/18/2020,Peds BMT,,,
+1/18/2020,Peds Cardiology,109067,1,6
+1/18/2020,Peds CC,109081,49,51
+1/18/2020,Peds Endo DM,,,
+1/18/2020,Peds Endocrinology,,,
+1/18/2020,Peds Gastroenterology,,,
+1/18/2020,Peds HemOnc,,,
+1/18/2020,Peds Hospitalists,109087,12,12
+1/18/2020,Peds ID,,,
+1/18/2020,Peds Neonatology,109079,156,158
+1/18/2020,Peds Nephrology,,,
+1/18/2020,Peds Neurology,,,
+1/18/2020,Peds Psychiatry,,,
+1/18/2020,Peds Pulmonology,,,
+1/18/2020,Peds Rheumatology,,,
+1/18/2020,Peds Surgery,,,
+1/18/2020,Peds Urology,,,
+1/18/2020,ULP Cardiothoracic Adult,109101,8,9
+1/18/2020,ULP Cardiothoracic Peds,,,
+1/18/2020,ULP Colorectal Surgery,,,
+1/18/2020,ULP Fam Med Hospitalists,,,
+1/18/2020,ULP FMED Geriatrics Hospitialists,,,
+1/18/2020,ULP FMED Geriatrics Nursing Home,,,
+1/18/2020,ULP FMED Instit for Optimal Aging,,,
+1/18/2020,ULP General Surgery,109063,42,47
+1/18/2020,ULP Med BMT,,,
+1/18/2020,ULP Med Cardiology,109065,23,26
+1/18/2020,ULP Med Endocrinology,,,
+1/18/2020,ULP Med Gastroenterology,109089,32,36
+1/18/2020,ULP Med Hospitalists,109093,215,215
+1/18/2020,ULP Med Infect Disease,109097,6,6
+1/18/2020,ULP Med Nephrology,109099,12,12
+1/18/2020,ULP Med Oncology,109095,3,3
+1/18/2020,ULP Med Pulmomology,109083,14,14
+1/18/2020,ULP Med Rhuematology,,,
+1/18/2020,ULP Neurology,109061,28,28
+1/18/2020,ULP Neurosurgery,109091,11,13
+1/18/2020,ULP Obgyn Gyn Oncology,109105,14,14
+1/18/2020,ULP Obgyn Gen Obstetrics,109107,15,22
+1/18/2020,ULP Obgyn Gynecology,,,
+1/18/2020,ULP Obgyn Maternal Fetal,109075,1,1
+1/18/2020,ULP Obgyn Midwife,,,
+1/18/2020,ULP Obgyn Min Invasive,109077,1,1
+1/18/2020,ULP ObGyn Reprod Endo,,,
+1/18/2020,ULP Obgyn Ryan Residency,,,
+1/18/2020,ULP Obgyn Urogynecology,,,
+1/18/2020,ULP Opht Eye Specialists,,,
+1/18/2020,ULP Opht Services,,,
+1/18/2020,ULP Orthopedics,109071,2,3
+1/18/2020,ULP Otolaryngology,,,
+1/18/2020,ULP Peds Primary Care,,,
+1/18/2020,ULP Physical Med & Rehab,109103,4,4
+1/18/2020,ULP Plastic Surgery,,,
+1/18/2020,ULP Radiology,,,
+1/18/2020,ULP Surgical Oncology,109069,22,32
+1/18/2020,ULP Thoracic,109073,24,24
+1/18/2020,ULP Transplant Surgery,109111,3,3
+1/18/2020,ULP Trauma Surgery,109085,1,1
+1/18/2020,ULP Urology,,,
+1/18/2020,ULP Vascular Surgery,109109,7,8
+1/19/2020,Peds Allergy,,,
+1/19/2020,Peds BMT,,,
+1/19/2020,Peds Cardiology,,,
+1/19/2020,Peds CC,,,
+1/19/2020,Peds Endo DM,,,
+1/19/2020,Peds Endocrinology,,,
+1/19/2020,Peds Gastroenterology,,,
+1/19/2020,Peds HemOnc,,,
+1/19/2020,Peds Hospitalists,,,
+1/19/2020,Peds ID,,,
+1/19/2020,Peds Neonatology,109151,24,24
+1/19/2020,Peds Nephrology,,,
+1/19/2020,Peds Neurology,,,
+1/19/2020,Peds Psychiatry,,,
+1/19/2020,Peds Pulmonology,,,
+1/19/2020,Peds Rheumatology,,,
+1/19/2020,Peds Surgery,,,
+1/19/2020,Peds Urology,,,
+1/19/2020,ULP Cardiothoracic Adult,,,
+1/19/2020,ULP Cardiothoracic Peds,,,
+1/19/2020,ULP Colorectal Surgery,,,
+1/19/2020,ULP Fam Med Hospitalists,,,
+1/19/2020,ULP FMED Geriatrics Hospitialists,,,
+1/19/2020,ULP FMED Geriatrics Nursing Home,,,
+1/19/2020,ULP FMED Instit for Optimal Aging,,,
+1/19/2020,ULP General Surgery,109123,20,20
+1/19/2020,ULP Med BMT,109149,16,20
+1/19/2020,ULP Med Cardiology,,,
+1/19/2020,ULP Med Endocrinology,,,
+1/19/2020,ULP Med Gastroenterology,,,
+1/19/2020,ULP Med Hospitalists,109129,34,34
+1/19/2020,ULP Med Infect Disease,109133,3,3
+1/19/2020,ULP Med Nephrology,109141,15,15
+1/19/2020,ULP Med Oncology,109131,7,7
+1/19/2020,ULP Med Pulmomology,109153,1,1
+1/19/2020,ULP Med Rhuematology,,,
+1/19/2020,ULP Neurology,109121,58,58
+1/19/2020,ULP Neurosurgery,109155,9,9
+1/19/2020,ULP Obgyn Gyn Oncology,109145,19,19
+1/19/2020,ULP Obgyn Gen Obstetrics,109147,7,9
+1/19/2020,ULP Obgyn Gynecology,,,
+1/19/2020,ULP Obgyn Maternal Fetal,109135,2,2
+1/19/2020,ULP Obgyn Midwife,,,
+1/19/2020,ULP Obgyn Min Invasive,109139,6,6
+1/19/2020,ULP ObGyn Reprod Endo,,,
+1/19/2020,ULP Obgyn Ryan Residency,,,
+1/19/2020,ULP Obgyn Urogynecology,,,
+1/19/2020,ULP Opht Eye Specialists,,,
+1/19/2020,ULP Opht Services,,,
+1/19/2020,ULP Orthopedics,109127,1,1
+1/19/2020,ULP Otolaryngology,,,
+1/19/2020,ULP Peds Primary Care,109137,14,14
+1/19/2020,ULP Physical Med & Rehab,109143,65,65
+1/19/2020,ULP Plastic Surgery,,,
+1/19/2020,ULP Radiology,,,
+1/19/2020,ULP Surgical Oncology,109125,3,3
+1/19/2020,ULP Thoracic,,,
+1/19/2020,ULP Transplant Surgery,,,
+1/19/2020,ULP Trauma Surgery,,,
+1/19/2020,ULP Urology,,,
+1/19/2020,ULP Vascular Surgery,,,
+1/20/2020,Peds Allergy,,,
+1/20/2020,Peds BMT,,,
+1/20/2020,Peds Cardiology,,,
+1/20/2020,Peds CC,,,
+1/20/2020,Peds Endo DM,,,
+1/20/2020,Peds Endocrinology,,,
+1/20/2020,Peds Gastroenterology,,,
+1/20/2020,Peds HemOnc,,,
+1/20/2020,Peds Hospitalists,,,
+1/20/2020,Peds ID,,,
+1/20/2020,Peds Neonatology,109187,10,10
+1/20/2020,Peds Nephrology,,,
+1/20/2020,Peds Neurology,,,
+1/20/2020,Peds Psychiatry,,,
+1/20/2020,Peds Pulmonology,,,
+1/20/2020,Peds Rheumatology,,,
+1/20/2020,Peds Surgery,,,
+1/20/2020,Peds Urology,,,
+1/20/2020,ULP Cardiothoracic Adult,,,
+1/20/2020,ULP Cardiothoracic Peds,,,
+1/20/2020,ULP Colorectal Surgery,,,
+1/20/2020,ULP Fam Med Hospitalists,,,
+1/20/2020,ULP FMED Geriatrics Hospitialists,,,
+1/20/2020,ULP FMED Geriatrics Nursing Home,,,
+1/20/2020,ULP FMED Instit for Optimal Aging,109171,4,4
+1/20/2020,ULP General Surgery,109163,15,15
+1/20/2020,ULP Med BMT,,,
+1/20/2020,ULP Med Cardiology,,,
+1/20/2020,ULP Med Endocrinology,109169,1,1
+1/20/2020,ULP Med Gastroenterology,,,
+1/20/2020,ULP Med Hospitalists,109167,127,127
+1/20/2020,ULP Med Infect Disease,,,
+1/20/2020,ULP Med Nephrology,109179,13,13
+1/20/2020,ULP Med Oncology,,,
+1/20/2020,ULP Med Pulmomology,109189,14,14
+1/20/2020,ULP Med Rhuematology,,,
+1/20/2020,ULP Neurology,109161,83,87
+1/20/2020,ULP Neurosurgery,109191,30,38
+1/20/2020,ULP Obgyn Gyn Oncology,109181,9,10
+1/20/2020,ULP Obgyn Gen Obstetrics,109183,12,15
+1/20/2020,ULP Obgyn Gynecology,,,
+1/20/2020,ULP Obgyn Maternal Fetal,,,
+1/20/2020,ULP Obgyn Midwife,,,
+1/20/2020,ULP Obgyn Min Invasive,109177,14,18
+1/20/2020,ULP ObGyn Reprod Endo,,,
+1/20/2020,ULP Obgyn Ryan Residency,,,
+1/20/2020,ULP Obgyn Urogynecology,,,
+1/20/2020,ULP Opht Eye Specialists,,,
+1/20/2020,ULP Opht Services,,,
+1/20/2020,ULP Orthopedics,109165,10,20
+1/20/2020,ULP Otolaryngology,,,
+1/20/2020,ULP Peds Primary Care,109175,7,7
+1/20/2020,ULP Physical Med & Rehab,,,
+1/20/2020,ULP Plastic Surgery,,,
+1/20/2020,ULP Radiology,,,
+1/20/2020,ULP Surgical Oncology,,,
+1/20/2020,ULP Thoracic,,,
+1/20/2020,ULP Transplant Surgery,109185,1,1
+1/20/2020,ULP Trauma Surgery,,,
+1/20/2020,ULP Urology,109173,8,11
+1/20/2020,ULP Vascular Surgery,,,
+1/21/2020,Peds Allergy,,,
+1/21/2020,Peds BMT,,,
+1/21/2020,Peds Cardiology,109255,58,88
+1/21/2020,Peds CC,,,
+1/21/2020,Peds Endo DM,,,
+1/21/2020,Peds Endocrinology,,,
+1/21/2020,Peds Gastroenterology,,,
+1/21/2020,Peds HemOnc,109241,124,127
+1/21/2020,Peds Hospitalists,,,
+1/21/2020,Peds ID,,,
+1/21/2020,Peds Neonatology,109231,106,108
+1/21/2020,Peds Nephrology,,,
+1/21/2020,Peds Neurology,109245,32,32
+1/21/2020,Peds Psychiatry,109269,98,98
+1/21/2020,Peds Pulmonology,109201,31,35
+1/21/2020,Peds Rheumatology,,,
+1/21/2020,Peds Surgery,,,
+1/21/2020,Peds Urology,,,
+1/21/2020,ULP Cardiothoracic Adult,109217,12,15
+1/21/2020,ULP Cardiothoracic Peds,109211,4,8
+1/21/2020,ULP Colorectal Surgery,109227,10,12
+1/21/2020,ULP Fam Med Hospitalists,109233,1,1
+1/21/2020,ULP FMED Geriatrics Hospitialists,109215,1,1
+1/21/2020,ULP FMED Geriatrics Nursing Home,109271,56,58
+1/21/2020,ULP FMED Instit for Optimal Aging,,,
+1/21/2020,ULP General Surgery,109251,13,18
+1/21/2020,ULP Med BMT,109229,29,33
+1/21/2020,ULP Med Cardiology,109253,58,62
+1/21/2020,ULP Med Endocrinology,109273,24,24
+1/21/2020,ULP Med Gastroenterology,109239,130,153
+1/21/2020,ULP Med Hospitalists,109263,240,244
+1/21/2020,ULP Med Infect Disease,109265,18,18
+1/21/2020,ULP Med Nephrology,109213,33,33
+1/21/2020,ULP Med Oncology,,,
+1/21/2020,ULP Med Pulmomology,109235,107,109
+1/21/2020,ULP Med Rhuematology,,,
+1/21/2020,ULP Neurology,109247,43,45
+1/21/2020,ULP Neurosurgery,109243,18,29
+1/21/2020,ULP Obgyn Gyn Oncology,109221,38,49
+1/21/2020,ULP Obgyn Gen Obstetrics,109223,27,31
+1/21/2020,ULP Obgyn Gynecology,,,
+1/21/2020,ULP Obgyn Maternal Fetal,109207,28,38
+1/21/2020,ULP Obgyn Midwife,109257,6,6
+1/21/2020,ULP Obgyn Min Invasive,109209,7,7
+1/21/2020,ULP ObGyn Reprod Endo,,,
+1/21/2020,ULP Obgyn Ryan Residency,,,
+1/21/2020,ULP Obgyn Urogynecology,109249,16,32
+1/21/2020,ULP Opht Eye Specialists,,,
+1/21/2020,ULP Opht Services,,,
+1/21/2020,ULP Orthopedics,109261,13,28
+1/21/2020,ULP Otolaryngology,109205,57,79
+1/21/2020,ULP Peds Primary Care,,,
+1/21/2020,ULP Physical Med & Rehab,109219,129,129
+1/21/2020,ULP Plastic Surgery,,,
+1/21/2020,ULP Radiology,,,
+1/21/2020,ULP Surgical Oncology,109259,6,8
+1/21/2020,ULP Thoracic,109267,2,2
+1/21/2020,ULP Transplant Surgery,,,
+1/21/2020,ULP Trauma Surgery,109237,137,152
+1/21/2020,ULP Urology,109203,28,39
+1/21/2020,ULP Vascular Surgery,109225,53,105
+1/22/2020,Peds Allergy,,,
+1/22/2020,Peds BMT,,,
+1/22/2020,Peds Cardiology,109327,42,75
+1/22/2020,Peds CC,109303,65,66
+1/22/2020,Peds Endo DM,,,
+1/22/2020,Peds Endocrinology,,,
+1/22/2020,Peds Gastroenterology,,,
+1/22/2020,Peds HemOnc,109299,31,31
+1/22/2020,Peds Hospitalists,109339,79,79
+1/22/2020,Peds ID,,,
+1/22/2020,Peds Neonatology,109301,115,117
+1/22/2020,Peds Nephrology,,,
+1/22/2020,Peds Neurology,109311,21,21
+1/22/2020,Peds Psychiatry,,,
+1/22/2020,Peds Pulmonology,,,
+1/22/2020,Peds Rheumatology,,,
+1/22/2020,Peds Surgery,,,
+1/22/2020,Peds Urology,,,
+1/22/2020,ULP Cardiothoracic Adult,109309,25,25
+1/22/2020,ULP Cardiothoracic Peds,,,
+1/22/2020,ULP Colorectal Surgery,,,
+1/22/2020,ULP Fam Med Hospitalists,,,
+1/22/2020,ULP FMED Geriatrics Hospitialists,,,
+1/22/2020,ULP FMED Geriatrics Nursing Home,109315,106,107
+1/22/2020,ULP FMED Instit for Optimal Aging,,,
+1/22/2020,ULP General Surgery,109317,30,32
+1/22/2020,ULP Med BMT,109287,26,28
+1/22/2020,ULP Med Cardiology,109323,96,123
+1/22/2020,ULP Med Endocrinology,109321,16,16
+1/22/2020,ULP Med Gastroenterology,109289,59,65
+1/22/2020,ULP Med Hospitalists,109293,68,69
+1/22/2020,ULP Med Infect Disease,,,
+1/22/2020,ULP Med Nephrology,109305,40,40
+1/22/2020,ULP Med Oncology,,,
+1/22/2020,ULP Med Pulmomology,109319,38,41
+1/22/2020,ULP Med Rhuematology,,,
+1/22/2020,ULP Neurology,109313,85,85
+1/22/2020,ULP Neurosurgery,109307,21,42
+1/22/2020,ULP Obgyn Gyn Oncology,109333,2,11
+1/22/2020,ULP Obgyn Gen Obstetrics,109281,6,10
+1/22/2020,ULP Obgyn Gynecology,,,
+1/22/2020,ULP Obgyn Maternal Fetal,109291,4,7
+1/22/2020,ULP Obgyn Midwife,109329,1,2
+1/22/2020,ULP Obgyn Min Invasive,109297,15,25
+1/22/2020,ULP ObGyn Reprod Endo,,,
+1/22/2020,ULP Obgyn Ryan Residency,,,
+1/22/2020,ULP Obgyn Urogynecology,,,
+1/22/2020,ULP Opht Eye Specialists,,,
+1/22/2020,ULP Opht Services,,,
+1/22/2020,ULP Orthopedics,109335,21,68
+1/22/2020,ULP Otolaryngology,,,
+1/22/2020,ULP Peds Primary Care,,,
+1/22/2020,ULP Physical Med & Rehab,109325,75,78
+1/22/2020,ULP Plastic Surgery,109295,18,58
+1/22/2020,ULP Radiology,,,
+1/22/2020,ULP Surgical Oncology,109331,73,98
+1/22/2020,ULP Thoracic,,,
+1/22/2020,ULP Transplant Surgery,109285,4,5
+1/22/2020,ULP Trauma Surgery,109337,22,27
+1/22/2020,ULP Urology,,,
+1/22/2020,ULP Vascular Surgery,109283,10,24
+1/23/2020,Peds Allergy,,,
+1/23/2020,Peds BMT,109343,20,20
+1/23/2020,Peds Cardiology,,,
+1/23/2020,Peds CC,109355,53,61
+1/23/2020,Peds Endo DM,,,
+1/23/2020,Peds Endocrinology,,,
+1/23/2020,Peds Gastroenterology,,,
+1/23/2020,Peds HemOnc,109409,30,30
+1/23/2020,Peds Hospitalists,109395,67,67
+1/23/2020,Peds ID,,,
+1/23/2020,Peds Neonatology,109345,158,168
+1/23/2020,Peds Nephrology,109357,31,34
+1/23/2020,Peds Neurology,109377,57,57
+1/23/2020,Peds Psychiatry,,,
+1/23/2020,Peds Pulmonology,109351,8,12
+1/23/2020,Peds Rheumatology,,,
+1/23/2020,Peds Surgery,,,
+1/23/2020,Peds Urology,,,
+1/23/2020,ULP Cardiothoracic Adult,109373,3,7
+1/23/2020,ULP Cardiothoracic Peds,109401,2,6
+1/23/2020,ULP Colorectal Surgery,109363,1,1
+1/23/2020,ULP Fam Med Hospitalists,109347,3,3
+1/23/2020,ULP FMED Geriatrics Hospitialists,,,
+1/23/2020,ULP FMED Geriatrics Nursing Home,109407,37,37
+1/23/2020,ULP FMED Instit for Optimal Aging,,,
+1/23/2020,ULP General Surgery,109411,108,112
+1/23/2020,ULP Med BMT,109369,14,15
+1/23/2020,ULP Med Cardiology,109349,56,74
+1/23/2020,ULP Med Endocrinology,,,
+1/23/2020,ULP Med Gastroenterology,109381,71,77
+1/23/2020,ULP Med Hospitalists,109397,121,124
+1/23/2020,ULP Med Infect Disease,109403,18,18
+1/23/2020,ULP Med Nephrology,109365,47,47
+1/23/2020,ULP Med Oncology,,,
+1/23/2020,ULP Med Pulmomology,109413,51,66
+1/23/2020,ULP Med Rhuematology,,,
+1/23/2020,ULP Neurology,109393,81,94
+1/23/2020,ULP Neurosurgery,109371,7,16
+1/23/2020,ULP Obgyn Gyn Oncology,,,
+1/23/2020,ULP Obgyn Gen Obstetrics,109341,44,57
+1/23/2020,ULP Obgyn Gynecology,,,
+1/23/2020,ULP Obgyn Maternal Fetal,109385,5,11
+1/23/2020,ULP Obgyn Midwife,109367,1,1
+1/23/2020,ULP Obgyn Min Invasive,109399,14,17
+1/23/2020,ULP ObGyn Reprod Endo,,,
+1/23/2020,ULP Obgyn Ryan Residency,109389,11,24
+1/23/2020,ULP Obgyn Urogynecology,,,
+1/23/2020,ULP Opht Eye Specialists,,,
+1/23/2020,ULP Opht Services,,,
+1/23/2020,ULP Orthopedics,109379,22,44
+1/23/2020,ULP Otolaryngology,109383,23,40
+1/23/2020,ULP Peds Primary Care,109391,15,15
+1/23/2020,ULP Physical Med & Rehab,109359,106,130
+1/23/2020,ULP Plastic Surgery,,,
+1/23/2020,ULP Radiology,,,
+1/23/2020,ULP Surgical Oncology,109375,4,6
+1/23/2020,ULP Thoracic,109405,3,6
+1/23/2020,ULP Transplant Surgery,,,
+1/23/2020,ULP Trauma Surgery,109387,117,117
+1/23/2020,ULP Urology,109361,31,40
+1/23/2020,ULP Vascular Surgery,109353,19,30
